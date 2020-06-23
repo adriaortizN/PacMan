@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Game>
+	<Positions x="20" y="20">
+		<Player x="10" y="8"/>
+		<Blinky x="10" y="5"/>
+		<Inky x="11" y="11"/>
+		<Clyke x="11" y="14"/>
+		<PowerUps num="4">
+			<Power x="2" y="5"/>
+			<Power x="19" y="5"/>
+			<Power x="2" y="17"/>
+			<Power x="19" y="17"/>
+		</PowerUps>
+	</Positions>
+	<Map>
+		<Wall x="1" y="1"/>
+		<Wall x="2" y="1"/>
+		<Wall x="3" y="1"/>
+		<Wall x="4" y="1"/>
+		<Wall x="5" y="1"/>
+		<Wall x="6" y="1"/>
+		<Wall x="7" y="1"/>
+		<Wall x="8" y="1"/>
+		<Wall x="9" y="1"/>
+		<Wall x="10" y="1"/>
+		<Wall x="11" y="1"/>
+		<Wall x="12" y="1"/>
+		<Wall x="13" y="1"/>
+		<Wall x="14" y="1"/>
+		<Wall x="15" y="1"/>
+		<Wall x="16" y="1"/>
+		<Wall x="17" y="1"/>
+		<Wall x="18" y="1"/>
+		<Wall x="19" y="1"/>
+		<Wall x="20" y="1"/>
+
+		<Wall x="1" y="2"/>
+		<Wall x="10" y="2"/>
+		<Wall x="11" y="2"/>
+		<Wall x="20" y="2"/>
+
+		<Wall x="1" y="3"/>
+		<Wall x="3" y="3"/>
+		<Wall x="4" y="3"/>
+		<Wall x="5" y="3"/>
+		<Wall x="7" y="3"/>
+		<Wall x="8" y="3"/>
+		<Wall x="10" y="3"/>
+		<Wall x="11" y="3"/>
+		<Wall x="13" y="3"/>
+		<Wall x="14" y="3"/>
+		<Wall x="16" y="3"/>
+		<Wall x="17" y="3"/>
+		<Wall x="18" y="3"/>
+		<Wall x="20" y="3"/>
+
+		<Wall x="1" y="4"/>
+		<Wall x="3" y="4"/>
+		<Wall x="7" y="4"/>
+		<Wall x="8" y="4"/>
+		<Wall x="10" y="4"/>
+		<Wall x="11" y="4"/>
+		<Wall x="13" y="4"/>
+		<Wall x="14" y="4"/>
+		<Wall x="18" y="4"/>
+		<Wall x="20" y="4"/>
+
+		<Wall x="1" y="5"/>
+		<Wall x="5" y="5"/>
+		<Wall x="16" y="5"/>
+		<Wall x="20" y="5"/>
+
+		<Wall x="1" y="6"/>
+		<Wall x="3" y="6"/>
+		<Wall x="4" y="6"/>
+		<Wall x="5" y="6"/>
+		<Wall x="7" y="6"/>
+		<Wall x="9" y="6"/>
+		<Wall x="10" y="6"/>
+		<Wall x="11" y="6"/>
+		<Wall x="12" y="6"/>
+		<Wall x="14" y="6"/>
+		<Wall x="16" y="6"/>
+		<Wall x="17" y="6"/>
+		<Wall x="18" y="6"/>
+		<Wall x="20" y="6"/>
+
+		<Wall x="1" y="7"/>
+		<Wall x="7" y="7"/>
+		<Wall x="9" y="7"/>
+		<Wall x="10" y="7"/>
+		<Wall x="11" y="7"/>
+		<Wall x="12" y="7"/>
+		<Wall x="14" y="7"/>
+		<Wall x="20" y="7"/>
+
+		<Wall x="1" y="8"/>
+		<Wall x="3" y="8"/>
+		<Wall x="5" y="8"/>
+		<Wall x="16" y="8"/>
+		<Wall x="18" y="8"/>
+		<Wall x="20" y="8"/>
+
+		<Wall x="1" y="9"/>
+		<Wall x="3" y="9"/>
+		<Wall x="5" y="9"/>
+		<Wall x="7" y="9"/>
+		<Wall x="9" y="9"/>
+		<Wall x="10" y="9"/>
+		<Wall x="11" y="9"/>
+		<Wall x="12" y="9"/>
+		<Wall x="14" y="9"/>
+		<Wall x="16" y="9"/>
+		<Wall x="18" y="9"/>
+		<Wall x="20" y="9"/>
+
+		<Wall x="1" y="10"/>
+		<Wall x="7" y="10"/>
+		<Wall x="9" y="10"/>
+		<Wall x="10" y="10"/>
+		<Wall x="11" y="10"/>
+		<Wall x="12" y="10"/>
+		<Wall x="14" y="10"/>
+		<Wall x="20" y="10"/>
+
+		<Wall x="1" y="11"/>
+		<Wall x="2" y="11"/>
+		<Wall x="3" y="11"/>
+		<Wall x="5" y="11"/>
+		<Wall x="7" y="11"/>
+		<Wall x="14" y="11"/>
+		<Wall x="16" y="11"/>
+		<Wall x="18" y="11"/>
+		<Wall x="19" y="11"/>
+		<Wall x="20" y="11"/>
+
+		<Wall x="7" y="12"/>
+		<Wall x="9" y="12"/>
+		<Wall x="10" y="12"/>
+		<Wall x="11" y="12"/>
+		<Wall x="12" y="12"/>
+		<Wall x="14" y="12"/>
+		<Wall x="16" y="12"/>
+
+		<Wall x="1" y="13"/>
+		<Wall x="2" y="13"/>
+		<Wall x="3" y="13"/>
+		<Wall x="5" y="13"/>
+		<Wall x="7" y="13"/>
+		<Wall x="9" y="13"/>
+		<Wall x="10" y="13"/>
+		<Wall x="11" y="13"/>
+		<Wall x="12" y="13"/>
+		<Wall x="14" y="13"/>
+		<Wall x="16" y="13"/>
+		<Wall x="18" y="13"/>
+		<Wall x="19" y="13"/>
+		<Wall x="20" y="13"/>
+
+		<Wall x="1" y="14"/>
+		<Wall x="5" y="14"/>
+		<Wall x="16" y="14"/>
+		<Wall x="20" y="14"/>
+
+		<Wall x="1" y="15"/>
+		<Wall x="3" y="15"/>
+		<Wall x="5" y="15"/>
+		<Wall x="7" y="15"/>
+		<Wall x="8" y="15"/>
+		<Wall x="9" y="15"/>
+		<Wall x="10" y="15"/>
+		<Wall x="11" y="15"/>
+		<Wall x="12" y="15"/>
+		<Wall x="13" y="15"/>
+		<Wall x="14" y="15"/>
+		<Wall x="16" y="15"/>
+		<Wall x="18" y="15"/>
+		<Wall x="20" y="15"/>
+
+		<Wall x="1" y="16"/>
+		<Wall x="3" y="16"/>
+		<Wall x="7" y="16"/>
+		<Wall x="14" y="16"/>
+		<Wall x="18" y="16"/>
+		<Wall x="20" y="16"/>
+
+		<Wall x="1" y="17"/>
+		<Wall x="3" y="17"/>
+		<Wall x="5" y="17"/>
+		<Wall x="7" y="17"/>
+		<Wall x="9" y="17"/>
+		<Wall x="10" y="17"/>
+		<Wall x="11" y="17"/>
+		<Wall x="12" y="17"/>
+		<Wall x="14" y="17"/>
+		<Wall x="16" y="17"/>
+		<Wall x="18" y="17"/>
+		<Wall x="20" y="17"/>
+
+		<Wall x="1" y="18"/>
+		<Wall x="5" y="18"/>
+		<Wall x="10" y="18"/>
+		<Wall x="11" y="18"/>
+		<Wall x="16" y="18"/>
+		<Wall x="20" y="18"/>
+
+		<Wall x="1" y="19"/>
+		<Wall x="2" y="19"/>
+		<Wall x="3" y="19"/>
+		<Wall x="7" y="19"/>
+		<Wall x="8" y="19"/>
+		<Wall x="13" y="19"/>
+		<Wall x="14" y="19"/>
+		<Wall x="18" y="19"/>
+		<Wall x="19" y="19"/>
+		<Wall x="20" y="19"/>
+
+		<Wall x="1" y="20"/>
+		<Wall x="2" y="20"/>
+		<Wall x="3" y="20"/>
+		<Wall x="4" y="20"/>
+		<Wall x="5" y="20"/>
+		<Wall x="6" y="20"/>
+		<Wall x="7" y="20"/>
+		<Wall x="8" y="20"/>
+		<Wall x="9" y="20"/>
+		<Wall x="10" y="20"/>
+		<Wall x="11" y="20"/>
+		<Wall x="12" y="20"/>
+		<Wall x="13" y="20"/>
+		<Wall x="14" y="20"/>
+		<Wall x="15" y="20"/>
+		<Wall x="16" y="20"/>
+		<Wall x="17" y="20"/>
+		<Wall x="18" y="20"/>
+		<Wall x="19" y="20"/>
+		<Wall x="20" y="20"/>
+	</Map>
+</Game>

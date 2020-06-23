@@ -1,0 +1,86 @@
+﻿  Button.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\inputs.h(20): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+  Fruit.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\inputs.h(20): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+  Game.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\inputs.h(20): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\game.cpp(203): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\game.cpp(1589): warning C4305: '=': truncation from '__int64' to 'float'
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\game.cpp(1595): warning C4305: '=': truncation from '__int64' to 'float'
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\game.cpp(1601): warning C4305: '=': truncation from '__int64' to 'float'
+  GameController.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\inputs.h(20): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+  Ghost.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\inputs.h(20): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+  HUDBackground.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  HUDLives.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Inputs.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\inputs.h(20): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\inputs.cpp(66): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+  main.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\inputs.h(20): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+  Menu.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\inputs.h(20): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+  Mixer.cpp
+  Player.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\inputs.h(20): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+  Point.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\inputs.h(20): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+  PowerUp.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\inputs.h(20): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+  Ranking.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\inputs.h(20): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+  Renderer.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Scene.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\inputs.h(20): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+  SplashScreen.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\inputs.h(20): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+  TextTexture.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Utils.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\utils.cpp(12): warning C4804: '<': unsafe use of type 'bool' in operation
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\utils.cpp(13): warning C4804: '<': unsafe use of type 'bool' in operation
+  Generating Code...
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\game.cpp(441): warning C4715: 'Game::CheckGridCollision': not all control paths return a value
+  Compiling...
+  Wall.cpp
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\constants.h(13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\adrian\desktop\pacman\g16_ortiz_caminal_aa2_pac-man\src\g16_pacman\inputs.h(20): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+  Generating Code...
+  G16_Pacman.vcxproj -> C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\bin\x64Debug\AA2-02.exe
+  C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\dep\dll\x64\libFLAC-8.dll
+  C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\dep\dll\x64\libfreetype-6.dll
+  C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\dep\dll\x64\libjpeg-9.dll
+  C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\dep\dll\x64\libmikmod-2.dll
+  C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\dep\dll\x64\libmodplug-1.dll
+  C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\dep\dll\x64\libogg-0.dll
+  C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\dep\dll\x64\libpng16-16.dll
+  C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\dep\dll\x64\libtiff-5.dll
+  C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\dep\dll\x64\libvorbis-0.dll
+  C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\dep\dll\x64\libvorbisfile-3.dll
+  C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\dep\dll\x64\libwebp-4.dll
+  C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\dep\dll\x64\SDL2.dll
+  C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\dep\dll\x64\SDL2_image.dll
+  C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\dep\dll\x64\SDL2_mixer.dll
+  C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\dep\dll\x64\SDL2_net.dll
+  C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\dep\dll\x64\SDL2_ttf.dll
+  C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\dep\dll\x64\smpeg2.dll
+  C:\Users\Adrian\Desktop\PacMan\G16_Ortiz_Caminal_AA2_Pac-Man\\dep\dll\x64\zlib1.dll
+  18 archivo(s) copiado(s)
